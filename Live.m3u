@@ -12,7 +12,7 @@ http://195.181.169.151:8080/MaaMoviesUS-telu/index.m3u8
 #EXTINF:-1, group-title="Telugu", Maa Movies
 http://195.181.169.151:8080/MaaMovies-telu/index.m3u8
 #EXTINF:-1, group-title="Telugu", Maha News
-http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Maha_News/Maha_News_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Maha_News/Maha_News_1200.m3u8
 #EXTINF:-1, group-title="Telugu", Gemini TV HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_TV_HD/Gemini_TV_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 #EXTINF:-1, group-title="Telugu", Gemini TV
