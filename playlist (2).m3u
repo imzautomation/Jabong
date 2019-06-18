@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Sony HD
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV6_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:0,GeminiHD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_TV_HD/Gemini_TV_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
