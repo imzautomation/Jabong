@@ -3,6 +3,8 @@
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Gemini_Movies_HD/Gemini_Movies_HD_JSRV5_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,Gemini_TV_HD
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Gemini_TV_HD/Gemini_TV_HD_JSRV7_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Maa_HD
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Maa_HD/Maa_HD_JSRV11_8000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,Sakshi_tv
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sakshi_tv/Sakshi_tv_JSRV11_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,ETV_Andhra_pradesh
@@ -53,6 +55,10 @@ http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/TV9_Telugu_News/TV9
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/TV_5_News/TV_5_News_JSRV13_4000.m3u8?jct=CFatv1bncScedtqBLe23jA&pxe=1566577803&st=EoMVarxgha7pTVhpmCYXcg?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,Sony_HD
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV6_4000.m3u8?jct=iS65ifMoMFn-YftGtfE4dw&pxe=1566592201&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,star_plus_hd
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_PlusHD_JSRV12_8000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
+#EXTINF:0,star_bharath_hd
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Bharat_HD/Star_Bharat_HD_JSRV5_8000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,And_TV_HD
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/And_TV_HD/And_TV_HD_JSRV6_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
 #EXTINF:0,Zee_TV_HD
@@ -91,6 +97,24 @@ http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/MNPLUS/MNPLUS_JSRV3
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_JSRV6_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
 #EXTINF:0,CN_HD_English
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/CN_HD_English/CN_HD_English_JSRV9_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
+#EXTINF:0,Star_Sports_HD1
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD1/Star_Sports_HD1_JSRV13_8000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Star_Sports_HD2
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD2/Star_Sports_HD2_JSRV11_8000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Star_Sports_Selecet_HD1
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_JSRV10_8000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Star_Sports_Selecet_HD1
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_JSRV6_8000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Ten_HD
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Ten_HD/Ten_HD_JSRV1_8000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Ten2_HD
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Ten2_HD/Ten2_HD_JSRV5_1200.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Ten3_HD
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Ten3_HD/Ten3_HD_JSRV5_1200.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Six_HD
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Six_HD/Six_HD_JSRV1_8000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Sony_ESPN_HD
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_ESPN_HD/Sony_ESPN_HD_JSRV9_1200.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,Discovery_Kids_1
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Discovery_Kids_1/Discovery_Kids_1_JSRV2_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
 #EXTINF:0,Nickelodeon_STB
@@ -129,9 +153,3 @@ http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Republic_TV/Republi
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/News_9/News_9_JSRV9_4000.m3u8?jct=iS65ifMoMFn-YftGtfE4dw&pxe=1566592201&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,CNN
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/CNN/CNN_JSRV6_4000.m3u8?jct=iS65ifMoMFn-YftGtfE4dw&pxe=1566592201&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
-
-
-
-
-
-http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV6_4000.m3u8 
