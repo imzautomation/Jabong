@@ -51,6 +51,34 @@ http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/NTV/NTV_JSRV3_4000.
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/TV9_Telugu_News/TV9_Telugu_News_JSRV3_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
 #EXTINF:0,TV_5_News
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/TV_5_News/TV_5_News_JSRV13_4000.m3u8?jct=CFatv1bncScedtqBLe23jA&pxe=1566577803&st=EoMVarxgha7pTVhpmCYXcg?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Jaya_TV_HD
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Jaya_TV_HD/Jaya_TV_HD_JSRV8_8000.m3u8?jct=X6dCC0K6jRZxZwDrcUr4ow&pxe=1570283401&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Puthu_Yugam
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Puthu_Yugam/Puthu_Yugam_JSRV5_4000.m3u8?jct=f3-9qiyYTIkVYaUwFZRp8A&pxe=1570284601&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,MK_TV
+ http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/MK_TV/MK_TV_JSRV5_4000.m3u8?jct=f3-9qiyYTIkVYaUwFZRp8A&pxe=1570284601&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Sun_TV_HD
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sun_TV_HD/Sun_TV_HD_JSRV5_8000.m3u8?jct=f3-9qiyYTIkVYaUwFZRp8A&pxe=1570284601&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Star_Vijay
+http://jiotvstb.live.cdn.jio.com/Star_Vijay/Star_Vijay_STB.m3u8?jct=f39qiyYTIkVYaUwFZRp8A&pxe=1570284601&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,KTV_HD
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/KTV_HD/KTV_HD_JSRV5_8000.m3u8?jct=f3-9qiyYTIkVYaUwFZRp8A&pxe=1570284601&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Vijay_TV
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Vijay_TV/Vijay_TV_JSRV7_4000.m3u8?jct=f3-9qiyYTIkVYaUwFZRp8A&pxe=1570284601&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Zee_Tamil
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Tamil/Zee_Tamil_JSRV3_4000.m3u8jct=yVDHwqjuXQHHqumnZuB9gg&pxe=1570285803&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Adithya_TV
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Adithya_TV/Adithya_TV_JSRV4_1200.m3u8?jct=yVDHwqjuXQHHqumnZuB9gg&pxe=1570285803&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Jaya_Plus
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Jaya_Plus/Jaya_Plus_JSRV8_4000.m3u8?jct=yVDHwqjuXQHHqumnZuB9gg&pxe=1570285803&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Raj_TV
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/J_Movies/J_Movies_JSRV1_4000.m3u8?jct=yVDHwqjuXQHHqumnZuB9gg&pxe=1570285803&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,J_Movies
+|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Sun_News
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sun_News/Sun_News_JSRV3_4000.m3u8?jct=yVDHwqjuXQHHqumnZuB9gg&pxe=1570285803&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,AL_Jazeera
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/AL_Jazeera/AL_Jazeera_JSRV8_4000.m3u8?jct=XrqSbwq-DWHWkDEh7IFImQ&pxe=1570287002&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,Sony_HD
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV6_1200.m3u8?jct=iS65ifMoMFn-YftGtfE4dw&pxe=1566592201&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,And_TV_HD
@@ -69,6 +97,14 @@ http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Classic/Zee_Cla
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_JSRV3_1200.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
 #EXTINF:0,Jio_Bollywood_Classic_HD
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Jio_Bollywood_Classic_HD/Jio_Bollywood_Classic_HD_JSRV9_1200.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
+#EXTINF:0,Raj_Pariwar
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Raj_Pariwar/Raj_Pariwar_JSRV8_4000.m3u8?jct=X6dCC0K6jRZxZwDrcUr4ow&pxe=1570283401&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Epic_HD
+http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Epic_HD/Epic_HD_JSRV3_4000.m3u8?jct=X6dCC0K6jRZxZwDrcUr4ow&pxe=1570283401&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Dabangg
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Dabangg/Dabangg_JSRV8_4000.m3u8?jct=X6dCC0K6jRZxZwDrcUr4ow&pxe=1570283401&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,Zee_Salaam
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Salaam/Zee_Salaam_JSRV4_4000.m3u8?jct=X6dCC0K6jRZxZwDrcUr4ow&pxe=1570283401&st=EoMVarxgha7pTVhpmCYXcg
 #EXTINF:0,And_Pictures_HD
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD_JSRV2_1200.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
 #EXTINF:0,AXN_HD
@@ -107,6 +143,8 @@ http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Travel_XP_HD/Travel
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Discovery_Turbo/Discovery_Turbo_JSRV2_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
 #EXTINF:0,Sony_BBC_Earth_HD
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_JSRV5_1200.m3u8?jct=kOkAa_DVH-cBJm0d-AD_Hg&pxe=1566591001&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+#EXTINF:0,AL_Jazeera
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/AL_Jazeera/AL_Jazeera_JSRV8_4000.m3u8?jct=XrqSbwq-DWHWkDEh7IFImQ&pxe=1570287002&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,NDTV_24x7
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/NDTV_24x7/NDTV_24x7_JSRV10_4000.m3u8?jct=iS65ifMoMFn-YftGtfE4dw&pxe=1566592201&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,CNN_NEWS_18
@@ -129,4 +167,9 @@ http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Republic_TV/Republi
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/News_9/News_9_JSRV9_4000.m3u8?jct=iS65ifMoMFn-YftGtfE4dw&pxe=1566592201&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,CNN
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/CNN/CNN_JSRV6_4000.m3u8?jct=iS65ifMoMFn-YftGtfE4dw&pxe=1566592201&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
- 
+#EXTINF:0,arynews
+http://0nelive.ddns.net:13292/minerva/arynews/chunks.m3u8?nimblesessionid=6752205&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE5IDI6MzI6NTEgUE0maGFzaF92YWx1ZT1KNTBxbG1yUndvbGE4dXlMRDFDOTdnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0,atv
+http://0nelive.ddns.net:13292//minerva/atv/chunks.m3u8?nimblesessionid=6859790&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE5IDI6NTE6MzMgUE0maGFzaF92YWx1ZT1QeHhqV1YxeW9hTjNONFdnaFdRY3hnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0,atv
+http://0nelive.ddns.net:13292//minerva/awamiawaz/chunks.m3u8?nimblesessionid=6859790&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDE5IDI6NTE6MzMgUE0maGFzaF92YWx1ZT1QeHhqV1YxeW9hTjNONFdnaFdRY3hnPT0mdmFsaWRtaW51dGVzPTI=
