@@ -86,7 +86,7 @@ http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/And_TV_HD/And_TV_HD
 #EXTINF:0,Zee_TV_HD
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_JSRV1_1200.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
 #EXTINF:0,Colors_HD
-http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_HD_JSRV6_1200.m3u8?jct=s0MitBRLrHvQ8f6p19GyAQ&pxe=1574418601&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_HD_JSRV6_1200.m3u8?jct=s0MitBRLrHvQ8f6p19GyAQ&pxe=1574418601&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36 ExoPlayer"
 #EXTINF:0,Sony_Max_HD
 http://smumcdnems07.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_JSRV3_1200.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer" 
 #EXTINF:0,Zee_Cinema_HD
