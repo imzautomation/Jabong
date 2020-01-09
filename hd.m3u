@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Gemini_Movies_HD
-http://smumcdnems03.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Gemini_Movies_HD/Gemini_Movies_HD_JSRV5_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_400.m3u8jct=D3lrkJ2T2zwz8u_louIUMw&pxe=1578582601&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36 ExoPlayer"
 #EXTINF:0,Gemini_TV_HD
 http://smumcdnems06.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Gemini_TV_HD/Gemini_TV_HD_JSRV7_4000.m3u8?jct=ZA2WZige-FMbuudwmaaRQA&pxe=1566589801&st=EoMVarxgha7pTVhpmCYXcg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:0,Maa_HD
